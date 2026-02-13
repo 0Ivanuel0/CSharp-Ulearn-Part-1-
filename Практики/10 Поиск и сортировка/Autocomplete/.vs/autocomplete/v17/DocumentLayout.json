@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\10 \u041F\u043E\u0438\u0441\u043A \u0438 \u0441\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u043A\u0430\\Autocomplete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F534A5E3-7F1B-2450-162E-0D81AD83222E}|autocomplete.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c#\\\u043E\u043D\u0441\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\10 \u043F\u043E\u0438\u0441\u043A \u0438 \u0441\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u043A\u0430\\autocomplete\\autocompletetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F534A5E3-7F1B-2450-162E-0D81AD83222E}|autocomplete.csproj|solutionrelative:autocompletetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F534A5E3-7F1B-2450-162E-0D81AD83222E}|autocomplete.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c#\\\u043E\u043D\u0441\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\10 \u043F\u043E\u0438\u0441\u043A \u0438 \u0441\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u043A\u0430\\autocomplete\\leftbordertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F534A5E3-7F1B-2450-162E-0D81AD83222E}|autocomplete.csproj|solutionrelative:leftbordertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F534A5E3-7F1B-2450-162E-0D81AD83222E}|autocomplete.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c#\\\u043E\u043D\u0441\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\10 \u043F\u043E\u0438\u0441\u043A \u0438 \u0441\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u043A\u0430\\autocomplete\\phrasesloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F534A5E3-7F1B-2450-162E-0D81AD83222E}|autocomplete.csproj|solutionrelative:phrasesloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F534A5E3-7F1B-2450-162E-0D81AD83222E}|autocomplete.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c#\\\u043E\u043D\u0441\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\10 \u043F\u043E\u0438\u0441\u043A \u0438 \u0441\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u043A\u0430\\autocomplete\\rightbordertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F534A5E3-7F1B-2450-162E-0D81AD83222E}|autocomplete.csproj|solutionrelative:rightbordertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhrasesLoader.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\10 \u041F\u043E\u0438\u0441\u043A \u0438 \u0441\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u043A\u0430\\Autocomplete\\PhrasesLoader.cs",
+              "RelativeDocumentMoniker": "PhrasesLoader.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\10 \u041F\u043E\u0438\u0441\u043A \u0438 \u0441\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u043A\u0430\\Autocomplete\\PhrasesLoader.cs",
+              "RelativeToolTip": "PhrasesLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:03:34.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RightBorderTask.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\10 \u041F\u043E\u0438\u0441\u043A \u0438 \u0441\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u043A\u0430\\Autocomplete\\RightBorderTask.cs",
+              "RelativeDocumentMoniker": "RightBorderTask.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\10 \u041F\u043E\u0438\u0441\u043A \u0438 \u0441\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u043A\u0430\\Autocomplete\\RightBorderTask.cs",
+              "RelativeToolTip": "RightBorderTask.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:34:17.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutocompleteTask.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\10 \u041F\u043E\u0438\u0441\u043A \u0438 \u0441\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u043A\u0430\\Autocomplete\\AutocompleteTask.cs",
+              "RelativeDocumentMoniker": "AutocompleteTask.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\10 \u041F\u043E\u0438\u0441\u043A \u0438 \u0441\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u043A\u0430\\Autocomplete\\AutocompleteTask.cs",
+              "RelativeToolTip": "AutocompleteTask.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwD0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:25:08.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeftBorderTask.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\10 \u041F\u043E\u0438\u0441\u043A \u0438 \u0441\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u043A\u0430\\Autocomplete\\LeftBorderTask.cs",
+              "RelativeDocumentMoniker": "LeftBorderTask.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\10 \u041F\u043E\u0438\u0441\u043A \u0438 \u0441\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u043A\u0430\\Autocomplete\\LeftBorderTask.cs",
+              "RelativeToolTip": "LeftBorderTask.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:13:14.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

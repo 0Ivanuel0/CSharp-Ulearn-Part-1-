@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c# ulearn\\practics\\3 \u0432\u0435\u0442\u0432\u043B\u0435\u043D\u0438\u0435\\distance\\distancetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|solutionrelative:distancetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c# ulearn\\practics\\3 \u0432\u0435\u0442\u0432\u043B\u0435\u043D\u0438\u0435\\distance\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c# ulearn\\practics\\3 \u0432\u0435\u0442\u0432\u043B\u0435\u043D\u0438\u0435\\distance\\ui\\app.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|solutionrelative:ui\\app.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c# ulearn\\practics\\3 \u0432\u0435\u0442\u0432\u043B\u0435\u043D\u0438\u0435\\distance\\ui\\distancetestroomtestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|solutionrelative:ui\\distancetestroomtestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c# ulearn\\practics\\3 \u0432\u0435\u0442\u0432\u043B\u0435\u043D\u0438\u0435\\distance\\ui\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|solutionrelative:ui\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c# ulearn\\practics\\3 \u0432\u0435\u0442\u0432\u043B\u0435\u043D\u0438\u0435\\distance\\testcases\\testcaseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|solutionrelative:testcases\\testcaseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c# ulearn\\practics\\3 \u0432\u0435\u0442\u0432\u043B\u0435\u043D\u0438\u0435\\distance\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|solutionrelative:size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c# ulearn\\practics\\3 \u0432\u0435\u0442\u0432\u043B\u0435\u043D\u0438\u0435\\distance\\ui\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C1575A-EE2A-8F9E-F56B-8C2233729E8D}|DistanceTask.csproj|solutionrelative:ui\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:36:23.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\UI\\App.axaml",
+              "RelativeDocumentMoniker": "UI\\App.axaml",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\UI\\App.axaml",
+              "RelativeToolTip": "UI\\App.axaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-02T18:36:21.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DistanceTestRoomTestCase.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\UI\\DistanceTestRoomTestCase.cs",
+              "RelativeDocumentMoniker": "UI\\DistanceTestRoomTestCase.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\UI\\DistanceTestRoomTestCase.cs",
+              "RelativeToolTip": "UI\\DistanceTestRoomTestCase.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:36:13.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\UI\\App.cs",
+              "RelativeDocumentMoniker": "UI\\App.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\UI\\App.cs",
+              "RelativeToolTip": "UI\\App.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:36:09.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestCaseUI.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\TestCases\\TestCaseUI.cs",
+              "RelativeDocumentMoniker": "TestCases\\TestCaseUI.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\TestCases\\TestCaseUI.cs",
+              "RelativeToolTip": "TestCases\\TestCaseUI.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:36:00.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\UI\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "UI\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\UI\\MainWindow.axaml.cs",
+              "RelativeToolTip": "UI\\MainWindow.axaml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:24:52.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\Size.cs",
+              "RelativeDocumentMoniker": "Size.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\Size.cs",
+              "RelativeToolTip": "Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:34:45.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DistanceTask.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\DistanceTask.cs",
+              "RelativeDocumentMoniker": "DistanceTask.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\3 \u0412\u0415\u0422\u0412\u041B\u0415\u041D\u0418\u0415\\Distance\\DistanceTask.cs*",
+              "RelativeToolTip": "DistanceTask.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:35:07.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

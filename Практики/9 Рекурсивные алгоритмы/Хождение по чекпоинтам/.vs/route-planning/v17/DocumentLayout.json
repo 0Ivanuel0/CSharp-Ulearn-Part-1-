@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\9 \u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B\\\u0425\u043E\u0436\u0434\u0435\u043D\u0438\u0435 \u043F\u043E \u0447\u0435\u043A\u043F\u043E\u0438\u043D\u0442\u0430\u043C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{521ECCD6-3A26-EFE9-4E07-C377D2E64499}|route-planning.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c# ulearn\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\9 \u0440\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B\\\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u0435 \u043F\u043E \u0447\u0435\u043A\u043F\u043E\u0438\u043D\u0442\u0430\u043C\\pathfindertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521ECCD6-3A26-EFE9-4E07-C377D2E64499}|route-planning.csproj|solutionrelative:pathfindertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PathFinderTask.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\9 \u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B\\\u0425\u043E\u0436\u0434\u0435\u043D\u0438\u0435 \u043F\u043E \u0447\u0435\u043A\u043F\u043E\u0438\u043D\u0442\u0430\u043C\\PathFinderTask.cs",
+              "RelativeDocumentMoniker": "PathFinderTask.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\9 \u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B\\\u0425\u043E\u0436\u0434\u0435\u043D\u0438\u0435 \u043F\u043E \u0447\u0435\u043A\u043F\u043E\u0438\u043D\u0442\u0430\u043C\\PathFinderTask.cs",
+              "RelativeToolTip": "PathFinderTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:46:08.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

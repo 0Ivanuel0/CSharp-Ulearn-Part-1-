@@ -1,0 +1,14 @@
+C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Console Application\Console Application\obj\Debug\net8.0\Console Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Console Application\Console Application\obj\Debug\net8.0\Console Application.AssemblyInfoInputs.cache
+C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Console Application\Console Application\obj\Debug\net8.0\Console Application.AssemblyInfo.cs
+C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Console Application\Console Application\obj\Debug\net8.0\Console Application.csproj.CoreCompileInputs.cache
+C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Console Application\Console Application\bin\Debug\net8.0\Console Application.exe
+C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Console Application\Console Application\bin\Debug\net8.0\Console Application.deps.json
+C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Console Application\Console Application\bin\Debug\net8.0\Console Application.runtimeconfig.json
+C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Console Application\Console Application\bin\Debug\net8.0\Console Application.dll
+C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Console Application\Console Application\bin\Debug\net8.0\Console Application.pdb
+C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Console Application\Console Application\obj\Debug\net8.0\Console Application.dll
+C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Console Application\Console Application\obj\Debug\net8.0\refint\Console Application.dll
+C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Console Application\Console Application\obj\Debug\net8.0\Console Application.pdb
+C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Console Application\Console Application\obj\Debug\net8.0\Console Application.genruntimeconfig.cache
+C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Console Application\Console Application\obj\Debug\net8.0\ref\Console Application.dll

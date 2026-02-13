@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\15 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\Benchmark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CD1868-7CA3-D08A-66E9-29E203A3F669}|StructBenchmarking.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c#\\\u043E\u043D\u0441\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\15 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\benchmark\\experimentstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CD1868-7CA3-D08A-66E9-29E203A3F669}|StructBenchmarking.csproj|solutionrelative:experimentstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CD1868-7CA3-D08A-66E9-29E203A3F669}|StructBenchmarking.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c#\\\u043E\u043D\u0441\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\15 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\benchmark\\benchmarktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CD1868-7CA3-D08A-66E9-29E203A3F669}|StructBenchmarking.csproj|solutionrelative:benchmarktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CD1868-7CA3-D08A-66E9-29E203A3F669}|StructBenchmarking.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c#\\\u043E\u043D\u0441\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\15 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\benchmark\\chartdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CD1868-7CA3-D08A-66E9-29E203A3F669}|StructBenchmarking.csproj|solutionrelative:chartdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CD1868-7CA3-D08A-66E9-29E203A3F669}|StructBenchmarking.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c#\\\u043E\u043D\u0441\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\15 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\benchmark\\methodcalltasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CD1868-7CA3-D08A-66E9-29E203A3F669}|StructBenchmarking.csproj|solutionrelative:methodcalltasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BenchmarkTask.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\15 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\Benchmark\\BenchmarkTask.cs",
+              "RelativeDocumentMoniker": "BenchmarkTask.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\15 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\Benchmark\\BenchmarkTask.cs",
+              "RelativeToolTip": "BenchmarkTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:46:11.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChartData.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\15 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\Benchmark\\ChartData.cs",
+              "RelativeDocumentMoniker": "ChartData.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\15 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\Benchmark\\ChartData.cs",
+              "RelativeToolTip": "ChartData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T16:29:28.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExperimentsTask.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\15 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\Benchmark\\ExperimentsTask.cs",
+              "RelativeDocumentMoniker": "ExperimentsTask.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\15 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\Benchmark\\ExperimentsTask.cs",
+              "RelativeToolTip": "ExperimentsTask.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:37:08.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MethodCallTasks.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\15 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\Benchmark\\MethodCallTasks.cs",
+              "RelativeDocumentMoniker": "MethodCallTasks.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C#\\\u041E\u043D\u0441\u043E\u0432\u044B \u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F 1\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\15 \u0421\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\Benchmark\\MethodCallTasks.cs",
+              "RelativeToolTip": "MethodCallTasks.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwF4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T16:31:57.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

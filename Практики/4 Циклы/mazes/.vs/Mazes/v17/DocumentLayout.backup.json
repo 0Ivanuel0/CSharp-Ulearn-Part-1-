@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\4 \u0426\u0438\u043A\u043B\u044B\\mazes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79721634-E075-03F6-4B86-AB342C8FFB19}|Mazes.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c# ulearn\\practics\\4 \u0446\u0438\u043A\u043B\u044B\\mazes\\diagonalmazetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79721634-E075-03F6-4B86-AB342C8FFB19}|Mazes.csproj|solutionrelative:diagonalmazetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79721634-E075-03F6-4B86-AB342C8FFB19}|Mazes.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c# ulearn\\practics\\4 \u0446\u0438\u043A\u043B\u044B\\mazes\\snakemazetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79721634-E075-03F6-4B86-AB342C8FFB19}|Mazes.csproj|solutionrelative:snakemazetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79721634-E075-03F6-4B86-AB342C8FFB19}|Mazes.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c# ulearn\\practics\\4 \u0446\u0438\u043A\u043B\u044B\\mazes\\pyramidmazetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79721634-E075-03F6-4B86-AB342C8FFB19}|Mazes.csproj|solutionrelative:pyramidmazetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79721634-E075-03F6-4B86-AB342C8FFB19}|Mazes.csproj|c:\\users\\ladyg\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\c# ulearn\\practics\\4 \u0446\u0438\u043A\u043B\u044B\\mazes\\emptymazetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79721634-E075-03F6-4B86-AB342C8FFB19}|Mazes.csproj|solutionrelative:emptymazetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiagonalMazeTask.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\4 \u0426\u0438\u043A\u043B\u044B\\mazes\\DiagonalMazeTask.cs",
+              "RelativeDocumentMoniker": "DiagonalMazeTask.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\4 \u0426\u0438\u043A\u043B\u044B\\mazes\\DiagonalMazeTask.cs*",
+              "RelativeToolTip": "DiagonalMazeTask.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:17:40.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PyramidMazeTask.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\4 \u0426\u0438\u043A\u043B\u044B\\mazes\\PyramidMazeTask.cs",
+              "RelativeDocumentMoniker": "PyramidMazeTask.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\4 \u0426\u0438\u043A\u043B\u044B\\mazes\\PyramidMazeTask.cs",
+              "RelativeToolTip": "PyramidMazeTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:28:22.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SnakeMazeTask.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\4 \u0426\u0438\u043A\u043B\u044B\\mazes\\SnakeMazeTask.cs",
+              "RelativeDocumentMoniker": "SnakeMazeTask.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\4 \u0426\u0438\u043A\u043B\u044B\\mazes\\SnakeMazeTask.cs",
+              "RelativeToolTip": "SnakeMazeTask.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:55:40.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmptyMazeTask.cs",
+              "DocumentMoniker": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\4 \u0426\u0438\u043A\u043B\u044B\\mazes\\EmptyMazeTask.cs",
+              "RelativeDocumentMoniker": "EmptyMazeTask.cs",
+              "ToolTip": "C:\\Users\\ladyg\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\C# Ulearn\\Practics\\4 \u0426\u0438\u043A\u043B\u044B\\mazes\\EmptyMazeTask.cs",
+              "RelativeToolTip": "EmptyMazeTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:36:15.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

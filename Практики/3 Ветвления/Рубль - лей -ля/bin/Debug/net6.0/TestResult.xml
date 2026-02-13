@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Pluralize.dll" fullname="C:/Users/ladyg/OneDrive/Документы/C# Ulearn/Practics/3 ВЕТВЛЕНИЕ/Рубль - лей -ля/bin/Debug/net6.0/Pluralize.dll" testcasecount="1" result="Failed" start-time="2025-09-25T18:01:58.3215378Z" end-time="2025-09-25T18:02:05.2745952Z" duration="6.953013" total="1" passed="0" failed="1" inconclusive="0" skipped="0" warnings="0" asserts="1" random-seed="1557768108">
+  <command-line><![CDATA["C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Practics\3 ВЕТВЛЕНИЕ\Рубль - лей -ля\bin\Debug\net6.0\Pluralize.dll"]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1002" name="Pluralize.dll" fullname="C:/Users/ladyg/OneDrive/Документы/C# Ulearn/Practics/3 ВЕТВЛЕНИЕ/Рубль - лей -ля/bin/Debug/net6.0/Pluralize.dll" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2025-09-25T18:01:58.3215378Z" end-time="2025-09-25T18:02:05.2745952Z" duration="6.953013" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="1">
+    <environment framework-version="3.13.3.0" clr-version="6.0.36" os-version="Microsoft Windows 10.0.22631" platform="Win32NT" cwd="C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Practics\3 ВЕТВЛЕНИЕ\Рубль - лей -ля\bin\Debug\net6.0" machine-name="IVANUEL" user="ladyg" user-domain="IVANUEL" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Practics\3 ВЕТВЛЕНИЕ\Рубль - лей -ля\bin\Debug\net6.0" />
+      <setting name="NumberOfTestWorkers" value="16" />
+    </settings>
+    <properties>
+      <property name="_PID" value="12516" />
+      <property name="_APPDOMAIN" value="Pluralize" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1003" name="Pluralize" fullname="Pluralize" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2025-09-25T18:01:58.3262892Z" end-time="2025-09-25T18:02:05.2745870Z" duration="6.948297" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="1">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="1000" name="Pluralize_Should" fullname="Pluralize.Pluralize_Should" classname="Pluralize.Pluralize_Should" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2025-09-25T18:01:58.3273272Z" end-time="2025-09-25T18:02:05.2744241Z" duration="6.947097" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="1">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="1001" name="BeCorrect" fullname="Pluralize.Pluralize_Should.BeCorrect" methodname="BeCorrect" classname="Pluralize.Pluralize_Should" runstate="Runnable" seed="1556510756" result="Failed" start-time="2025-09-25T18:01:58.3286231Z" end-time="2025-09-25T18:02:05.2728403Z" duration="6.944267" asserts="1">
+          <failure>
+            <message><![CDATA[  Expected string length 6 but was 5. Strings differ at index 4.
+  Expected: "рублей"
+  But was:  "рубля"
+  ---------------^
+]]></message>
+            <stack-trace><![CDATA[   at Pluralize.Pluralize_Should.BeCorrect() in C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Practics\3 ВЕТВЛЕНИЕ\Рубль - лей -ля\Pluralize_Should.cs:line 24
+]]></stack-trace>
+          </failure>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[  Expected string length 6 but was 5. Strings differ at index 4.
+  Expected: "рублей"
+  But was:  "рубля"
+  ---------------^
+]]></message>
+              <stack-trace><![CDATA[   at Pluralize.Pluralize_Should.BeCorrect() in C:\Users\ladyg\OneDrive\Документы\C# Ulearn\Practics\3 ВЕТВЛЕНИЕ\Рубль - лей -ля\Pluralize_Should.cs:line 24
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
