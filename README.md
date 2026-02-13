@@ -30,12 +30,8 @@
 
 ---
 
-<p align="center">
-  <i>Если этот репозиторий был полезен, возможно пригодится и вторая часть! 🌟</i>
-</p>
-
-<p align="center">
-  <a href="[https://github.com/0Ivanuel0/C-Ulearn-Part-2-](https://github.com/0Ivanuel0/CSharp-Ulearn-Part-2-](https://github.com/0Ivanuel0/CSharp-Ulearn-Part-2-)">
-    <img src="https://img.shields.io/badge/Перейти_ко_второй_части-нажми_здесь-2E8B57?style=for-the-badge" alt="Перейти ко второй части">
+<div align="center">
+  <a href="https://github.com/0Ivanuel0/CSharp-Ulearn-Part-2-">
+    <img src="https://img.shields.io/badge/🚀_Перейти_ко_второй_части-4B8BBE?style=for-the-badge&logo=github&logoColor=white" alt="Перейти ко второй части">
   </a>
-</p>
+</div>
