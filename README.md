@@ -1,1 +1,1 @@
-# CSharp-Ulearn-Part-1-
+Здесь представлены решения всех практик из курса ["Основы программирования на примере C#. Часть 1"](https://ulearn.me/Course/basicprogramming/Kratkaya_spravka_pered_nachalom_69a2e121-e58f-4cd0-8221-7affb7dc796e)
