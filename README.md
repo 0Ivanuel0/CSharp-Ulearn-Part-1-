@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/0Ivanuel0/C-Ulearn-Part-2-](https://github.com/0Ivanuel0/CSharp-Ulearn-Part-2-">
+  <a href="[https://github.com/0Ivanuel0/C-Ulearn-Part-2-](https://github.com/0Ivanuel0/CSharp-Ulearn-Part-2-](https://github.com/0Ivanuel0/CSharp-Ulearn-Part-2-)">
     <img src="https://img.shields.io/badge/Перейти_ко_второй_части-нажми_здесь-2E8B57?style=for-the-badge" alt="Перейти ко второй части">
   </a>
 </p>
